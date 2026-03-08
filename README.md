@@ -1,4 +1,4 @@
-# COE Number - Python Unittest Project
+#Python Unittest Project
 
 โปรเจกต์ทดสอบการเขียน Unit Test ด้วย Python unittest สำหรับวิชาการเขียนโปรแกรม
 ภาควิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยสงขลานครินทร์
